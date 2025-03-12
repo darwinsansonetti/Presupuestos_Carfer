@@ -416,7 +416,7 @@ namespace Aluminum.View
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
+        { 
             textBoxIdCliente.Text = "";
             textBoxNewNombre.Text = "";
             textBoxNewDocumento.Text = "";
